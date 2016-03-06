@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">listViewImage Template</string>
+    <string-array name="titles">
+        <item>Character 1</item>
+        <item>Character 2</item>
+        <item>Character 3</item>
+        <item>Character 4</item>
+        <item>Character 5</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>This is description 1</item>
+        <item>This is description 2</item>
+        <item>This is description 3</item>
+        <item>This is description 4</item>
+        <item>This is description 5</item>
+    </string-array>
+</resources>
